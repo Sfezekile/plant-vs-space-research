@@ -39,10 +39,10 @@ section.hero {
     margin: 10px 16px;
     padding: 16px;
     border-radius: 15px;
-    /* background-image: url('images/hero-img.png');
+    background-image: url('images/hero-img.png');
     background-position: right;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     overflow: hidden;
 }
 
