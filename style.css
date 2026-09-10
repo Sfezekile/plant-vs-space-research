@@ -96,7 +96,6 @@ nav li a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: red;
     
     color: var(--text-light);
     z-index: 2;
