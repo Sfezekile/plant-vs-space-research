@@ -91,8 +91,8 @@ nav li a{
 .content {
     position: absolute;
     bottom: 20vh;
-    left: 0px;
-    width: 40%;
+    left: 10vh;
+    width: 45%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -104,20 +104,20 @@ nav li a{
     
     span {
         font-family: 'Spaceman';
-        text-align: center;
-        font-size: 21.5px;
+        text-align: justify;
+        font-size: 31.5px;
     }
     h1 {
         font-family: 'Space';
-        font-size: 105px;
+        font-size: 15vh;
         line-height: 1.2;
         margin: 0;
     }
     p {
         margin: 0;
-        width: 55vh;
+        width: 90%;
         font-family: Arial, Helvetica, sans-serif;
-        font-size: 14px;
+        font-size: 18px;
         text-align: center;
     }
 }
